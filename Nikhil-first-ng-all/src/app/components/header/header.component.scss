@@ -5,4 +5,27 @@ header {
     background-color: #333;
     color: white;
     align-items: center;
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        // width: 100%;
+
+        > span {
+            cursor: pointer;
+            list-style: none;
+            &:hover {
+                color: #777;
+            }
+        }
+
+        ul {
+            cursor: pointer;
+            list-style: none;
+            &:hover {
+                color: #777;
+            }
+        }
+    }
 }
