@@ -49,3 +49,8 @@ CREATE src/app/home/home.component.scss (0 bytes)
 CREATE src/app/home/home.component.html (19 bytes)
 CREATE src/app/home/home.component.spec.ts (578 bytes)
 CREATE src/app/home/home.component.ts (207 bytes)
+
+
+root@ldpda089 /gofiles/src/angular/first-ng-all  (main)$ng g c components/counter
+
+root@ldpda089 /gofiles/src/angular/first-ng-all  (main)$ng g c todos
