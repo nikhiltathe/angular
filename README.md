@@ -54,3 +54,14 @@ CREATE src/app/home/home.component.ts (207 bytes)
 root@ldpda089 /gofiles/src/angular/first-ng-all  (main)$ng g c components/counter
 
 root@ldpda089 /gofiles/src/angular/first-ng-all  (main)$ng g c todos
+
+
+## Angular Services
+Angular Services are used to encapsulate data,
+making HTTP calls, or performing any task that is
+not related directly to data rendering (in my
+opinion).
+
+
+
+root@ldpda089 /gofiles/src/angular/first-ng-all  (main)$ng g service services/todos
